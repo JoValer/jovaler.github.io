@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Giovanni Valer"
-  avatar           : "profile.jpg"
+  avatar           : #"profile.jpg"
   bio              : "Computer Engineering student at University of Trento"
   location         : "Trento"
   employer         :
@@ -114,7 +114,7 @@ author:
   weibo            :
   xing             :
   youtube          :
-  wikipedia        :
+  wikipedia        : 
 
 
 # Reading Files
@@ -175,15 +175,15 @@ kramdown:
 
 # Collections
 collections:
-  projects:
-    output: true
-    permalink: /:projects/:path/
   teaching:
     output: true
     permalink: /:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/
+  projects:
+    output: true
+    permalink: /:projects/:path/
   portfolio:
     output: true
     permalink: /:collection/:path/
@@ -225,6 +225,15 @@ defaults:
   - scope:
       path: ""
       type: publications
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  # _projects
+  - scope:
+      path: ""
+      type: projects
     values:
       layout: single
       author_profile: true
