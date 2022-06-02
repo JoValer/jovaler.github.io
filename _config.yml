@@ -81,11 +81,11 @@ analytics:
 # Site Author
 author:
   name             : "Giovanni Valer"
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   bio              : "Computer Engineering student at University of Trento"
   location         : "Trento"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : 
   googlescholar    : 
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "JoValer"
+  github           : "jo-valer"
   google_plus      :
   keybase          :
   instagram        :
