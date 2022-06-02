@@ -1,4 +1,10 @@
 # main links links
 main:
   - title: "Projects"
-    url: /projects/
+    url: https://JoValer.github.io/jovaler.github.io/_data/_projects/
+  - title: "Projects"
+    url: https://github.com/JoValer/jovaler.github.io/_data/_projects/
+  - title: "Projects"
+    url: https://JoValer.github.io/jovaler.github.io/_data/_projects/projects-1.md/
+  - title: "Projects"
+    url: https://github.com/JoValer/jovaler.github.io/_data/_projects/projects-1.md/
