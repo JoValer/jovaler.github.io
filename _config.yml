@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Giovanni Valer"
-  avatar           : #"profile.jpg"
+  avatar           : "profile.png"
   bio              : "Computer Engineering student at University of Trento"
   location         : "Trento"
   employer         :
